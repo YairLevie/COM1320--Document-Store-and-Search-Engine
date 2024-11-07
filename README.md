@@ -43,7 +43,7 @@ This project, a core component of my Data Structures course, is a **fully functi
 - **Memory-Efficient Design:** Dynamic min-heap and disk storage balance memory constraints with rapid data access.
 - **Functional Programming:** Leveraged Java lambdas for undo commands, providing concise, effective state management.
 
-## 📂 Repository Structure
+## 📂 Repository Structure and Usage
 
 ```plaintext
 DataStructures/
