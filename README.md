@@ -32,7 +32,7 @@ This project, a core component of my Data Structures course, is a **fully functi
 6. **Stage 6** - **Two-Tier Storage with B-Tree and Disk Persistence**  
    Replaced the `HashTable` with a `BTree`, enabling two-tier storage across RAM and disk. Document serialization/deserialization is handled by `DocumentPersistenceManager`, with documents moved to disk once memory limits are reached.
 
-### Key Data Structures, Algorithms, and Optimizations
+### Key Data Structures and Optimizations
 
 - **HashTable**: Custom-built with separate chaining for collision handling.
 - **Trie**: Used for keyword and prefix search across documents, providing O(m) search complexity (where m is the length of the search keyword).
